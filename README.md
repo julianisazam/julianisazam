@@ -1,8 +1,11 @@
-## Hi, I’m @julianisazam 
+👋 Hi, I’m @julianisazam 
 
 👀 I’m interested in full stack development and software architecture  
+
 🔭 I’m currently learning TDD, FastApi, Power BI and practicing frontend skills with next.js 
+
 💬 Ask me about Java, React, Spring Boot and TypeScrip/JavaScript
+
 📫 You can reach me at [julianisaza09@gmail.com]
 
 <!--

@@ -6,7 +6,7 @@
 
 💬 Ask me about Java, React, Spring Boot and TypeScrip/JavaScript
 
-📫 You can reach me at [julianisaza09@gmail.com]
+📫 You can reach me at julianisaza09@gmail.com
 
 <!--
 **julianisazam/julianisazam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
